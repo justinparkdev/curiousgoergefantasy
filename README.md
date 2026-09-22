@@ -1,0 +1,24 @@
+# curiousgoergefantasy
+curious george fantasy league 
+<!DOCTYPE html>
+<html>
+<head>
+<title> CuriousGeorge Fantasy </title>
+</head>
+<body>
+<h1>Curious George Fantasy Basketball League 2026</h1>
+<p> Our contestants are Ved, Justin, Neil, Roman, Soumil, Jacob, Ian, Rohi, Jubin, and Advait. </p>
+<p> Who will win this year's fantasy league? Stay tuned for the results on <i>@curiousgeorgefantasy</i> on Instagram </p>
+<h2>Introductions</h2>
+<p> First of we are introducing our <strong>commisioner</strong> Justin Park. He is last year's winner and is currently trying to go for two in a row. Next we have Jubin who is our game master who plans the games for combines and the dates for draft night. We now have Roman who was the reason last year's fantasy league went down as he quit. We now have Rohi who was the runner up last year. Advait is a pokemon lover who is excited to draft the 76rs players. Neil is our lazy contestant who doesn't like to do anything other than talking about Lebron. Soumil is just there for fun, and Jacob is our most passionate member. Finally we have our new rookie Ian who almost ruined this year by joining. </p>
+<img src="https://i0.wp.com/northwoodmirror.com/wp-content/uploads/2017/10/fantasy-basketball-badge.png?fit=500%2C500&ssl=1" class="move-right">
+<img src="https://www.nicepng.com/png/full/134-1342138_george-12-curious-george-the-complete-sixth-season.png" class="transparent-image" class="move-left">
+<style>
+h1 {color:blue;}
+h2 {color:red;}
+body {background:tan;}
+</style>
+
+
+</body>
+</html>
